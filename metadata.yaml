@@ -1,0 +1,36 @@
+_repo: Dorothy-Dale-at-Glenwood-School_33530
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nuttall, Charles
+    birthdate: 1872
+    deathdate: 1934
+    gutenberg_agent_id: '39751'
+    url: http://www.gutenberg.org/2009/agents/39751
+covers:
+- cover_type: archival
+  image_path: 33530-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_issued: '2010-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Teasing -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+title: Dorothy Dale at Glenwood School
+url: http://www.gutenberg.org/ebooks/33530
